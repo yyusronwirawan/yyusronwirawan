@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps & Cloud DevOps**
 
-- 👯 I’m looking to collaborate on [https://gitlab.com/yyusronwirawan](https://gitlab.com/yyusronwirawan)
-
 - 👨‍💻 All of my projects are available at [https://yyusronwirawan.github.io/gitprofile/](https://yyusronwirawan.github.io/gitprofile/)
-
-- 📝 I regularly write articles on [https://yusronwirawan.me](https://yusronwirawan.me)
 
 - 💬 Ask me about **DevOps**
 
