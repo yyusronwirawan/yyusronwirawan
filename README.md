@@ -1,6 +1,7 @@
 <!-- Level 3: Add custom code -->
 # 🏄‍♂️ Hi, I'm Yusron!
 
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Informatics Engineering] at the Muhammadiyah University of Ponorogo, Indonesia<br/>
 💻 Building scalable web applications and exploring IoT integrations in software systems<br/>
