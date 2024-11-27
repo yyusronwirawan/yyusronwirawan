@@ -10,7 +10,7 @@
 💬 Sharing insights, projects, and lessons learned on my journey in tech through blogs and tutorials<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yyusronwirawan)
