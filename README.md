@@ -10,7 +10,5 @@
 💬 Sharing insights, projects, and lessons learned on my journey in tech through blogs and tutorials<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyusronwirawan&show_icons=true&bg_color=00000000)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=yyusronwirawan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
