@@ -11,7 +11,7 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=yyusronwirawan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 
 
