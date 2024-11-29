@@ -9,9 +9,6 @@
 📚 Currently diving into data visualization, backend optimizations, and cloud-native development<br/>
 💬 Sharing insights, projects, and lessons learned on my journey in tech through blogs and tutorials<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Yusron GitHub stats](https://github-readme-stats.vercel.app/api?username=yyusronwirawan&show_icons=true&theme=blue_navy)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yyusronwirawan)
 
