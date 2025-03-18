@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**<br/>
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Informatics Engineering] at the Muhammadiyah University of Ponorogo, Indonesia<br/>
+👩🏻‍🎓 Studied Informatics Engineering at the Muhammadiyah University of Ponorogo, Indonesia<br/>
 💻 Building scalable web applications and exploring IoT integrations in software systems<br/>
 🔍 Passionate about solving complex problems in software architecture, system security, and data analytics<br/>
 📚 Currently diving into data visualization, backend optimizations, and cloud-native development<br/>
